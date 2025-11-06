@@ -6,8 +6,8 @@ import joblib
 from box import ConfigBox
 from pathlib import Path
 from typing import Any
-from box.exceptions import BoxVlueError
-
+from box.exceptions import BoxValueError
+from ensure import ensure_annotations
 
 @ensure_annotations
 def read_yaml(path_to_yaml:Path) -> ConfigBox:
