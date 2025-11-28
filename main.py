@@ -13,7 +13,7 @@ except Exception as e:
     logger.expection(e)
     raise e
 
-STAGE_NAME = "Model Evaluation Stage"
+STAGE_NAME = "Data Validation Stage"
 try:
     logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
     data_ingestion = DataValidationTrainingPipeline()
