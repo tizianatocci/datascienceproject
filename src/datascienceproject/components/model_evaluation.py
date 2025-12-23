@@ -16,7 +16,6 @@ from src.datascienceproject.utils.common import read_yaml, create_directories, s
 import os
 os.environ["MLFLOW_TRACKING_URI"] = "https://dagshub.com/tizdagshub/datascienceproject.mlflow" 
 os.environ["MLFLOW_TRACKING_USERNAME"] = "tizdagshub"
-os.environ["MLFLOW_TRACKING_PASSWORD"] = "REMOVED"
 
 
 class ModelEvaluation:
