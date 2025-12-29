@@ -1,20 +1,37 @@
-# End to End Data Science Project
-Course: Complete MLOps Bootcamp With 10+ End To End ML Projects
+📊 End-to-End Data Science Project
 
-### Workflows - ML pipeline
+Course: Complete MLOps Bootcamp With 10+ End-to-End ML Projects
+Project Type: End-to-End ML Pipeline
 
-1. Data Ingestion
-2. Data Transformation
-3. Model Trainer
-4. Model Evaluation
+⚠️ Note: This project follows a course code-along, with hands-on implementation of a complete ML pipeline and workflows for learning purposes.
 
-## Worfklows
+🚀 Project Overview
 
-1. Update the config.yaml
-2. Update schema.yaml
-3. Update params.yaml
-4. Update the entity
-5. Update the configuration manager in src config
-6. Update the components
-7. Update the pipeline
-8. Update the main.py
+An end-to-end data science project implementing a complete ML workflow from data ingestion to model evaluation. The project demonstrates the construction and orchestration of ML pipelines for reproducible and maintainable workflows.
+
+🛠️ Workflows Implemented
+
+ML Pipeline:
+
+Data Ingestion 🗄️
+
+Data Transformation 🔄
+
+Model Trainer 🏋️‍♂️
+
+Model Evaluation 📈
+
+Pipeline & Configuration Workflows:
+
+Update config.yaml 📝
+
+Update schema.yaml 📐
+
+Update params.yaml ⚙️
+
+Update entities and configuration manager in src/config 🔧
+
+Update pipeline components 🔄
+
+Update main.py 🏁
+
